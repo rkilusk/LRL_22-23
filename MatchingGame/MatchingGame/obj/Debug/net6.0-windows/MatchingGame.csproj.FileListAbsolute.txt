@@ -1,0 +1,33 @@
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.exe
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.deps.json
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.runtimeconfig.json
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.dll
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.pdb
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.Form1.resources
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.GenerateResource.cache
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.AssemblyInfoInputs.cache
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.AssemblyInfo.cs
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.dll
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\refint\MatchingGame.dll
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.pdb
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.genruntimeconfig.cache
+C:\Users\u-29\OneDrive - Tallinn Polytechnic School\LRL\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\ref\MatchingGame.dll
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.exe
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.deps.json
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.runtimeconfig.json
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.dll
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.Form1.resources
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.GenerateResource.cache
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.AssemblyInfoInputs.cache
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.AssemblyInfo.cs
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.dll
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\refint\MatchingGame.dll
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.genruntimeconfig.cache
+C:\Users\Roland\Desktop\lrl\redy4github\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\ref\MatchingGame.dll

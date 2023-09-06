@@ -1,0 +1,104 @@
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.staticwebassets.runtime.json
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.exe
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.deps.json
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.runtimeconfig.json
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.pdb
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.AssemblyReference.cache
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.AssemblyInfoInputs.cache
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.AssemblyInfo.cs
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.CoreCompileInputs.cache
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.BlazorServerSignalRApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorServerSignalRApp.props
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerSignalRApp.props
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorServerSignalRApp.props
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\projectbundle\BlazorServerSignalRApp.bundle.scp.css
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.CopyComplete
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\refint\BlazorServerSignalRApp.dll
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.pdb
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.genruntimeconfig.cache
+C:\Users\Roland\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\ref\BlazorServerSignalRApp.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.staticwebassets.runtime.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.exe
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.deps.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.runtimeconfig.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.AssemblyReference.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.AssemblyInfoInputs.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.AssemblyInfo.cs
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.BlazorServerSignalRApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorServerSignalRApp.props
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerSignalRApp.props
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorServerSignalRApp.props
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\projectbundle\BlazorServerSignalRApp.bundle.scp.css
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.CopyComplete
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\refint\BlazorServerSignalRApp.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.genruntimeconfig.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö Kilusk_Roland_IT-22E\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\ref\BlazorServerSignalRApp.dll

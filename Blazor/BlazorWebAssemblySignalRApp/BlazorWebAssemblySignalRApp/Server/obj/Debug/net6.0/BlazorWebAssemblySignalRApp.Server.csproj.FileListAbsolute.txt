@@ -1,0 +1,138 @@
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Client.staticwebassets.runtime.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.staticwebassets.runtime.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.exe
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.deps.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.runtimeconfig.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.pdb
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Client.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Client.pdb
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.csproj.AssemblyReference.cache
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.AssemblyInfoInputs.cache
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.AssemblyInfo.cs
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cache
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cs
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.BlazorWebAssemblySignalRApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorWebAssemblySignalRApp.Server.props
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWebAssemblySignalRApp.Server.props
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorWebAssemblySignalRApp.Server.props
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\scopedcss\bundle\BlazorWebAssemblySignalRApp.Server.styles.css
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.csproj.CopyComplete
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\refint\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.pdb
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.genruntimeconfig.cache
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\ref\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Client.staticwebassets.runtime.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.staticwebassets.runtime.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.exe
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.deps.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.runtimeconfig.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Client.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Client.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.csproj.AssemblyReference.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.AssemblyInfoInputs.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.AssemblyInfo.cs
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cs
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.BlazorWebAssemblySignalRApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorWebAssemblySignalRApp.Server.props
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWebAssemblySignalRApp.Server.props
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorWebAssemblySignalRApp.Server.props
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\scopedcss\bundle\BlazorWebAssemblySignalRApp.Server.styles.css
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.csproj.CopyComplete
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\refint\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Server.genruntimeconfig.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Server\obj\Debug\net6.0\ref\BlazorWebAssemblySignalRApp.Server.dll

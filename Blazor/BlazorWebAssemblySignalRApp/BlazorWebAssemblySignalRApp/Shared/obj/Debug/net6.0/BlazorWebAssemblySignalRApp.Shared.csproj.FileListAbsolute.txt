@@ -1,0 +1,23 @@
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\refint\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\Roland\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\refint\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\22.02 tunnitöö\BlazorWebAssemblySignalRApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\ref\BlazorWebAssemblySignalRApp.Shared.dll

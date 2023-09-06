@@ -1,0 +1,21 @@
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Roland\OneDrive - Tallinn Polytechnic School\LRL\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Roland\Desktop\lrl\redy4github\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
